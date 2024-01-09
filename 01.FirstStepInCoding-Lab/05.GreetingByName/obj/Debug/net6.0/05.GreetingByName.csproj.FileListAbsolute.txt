@@ -1,0 +1,14 @@
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.exe
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.deps.json
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.runtimeconfig.json
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\bin\Debug\net6.0\05.GreetingByName.pdb
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\refint\05.GreetingByName.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.pdb
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\05.GreetingByName.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\05.GreetingByName\obj\Debug\net6.0\ref\05.GreetingByName.dll

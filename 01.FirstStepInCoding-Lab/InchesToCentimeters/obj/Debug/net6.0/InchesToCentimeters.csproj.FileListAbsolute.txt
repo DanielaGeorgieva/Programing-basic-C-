@@ -1,0 +1,14 @@
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.exe
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.deps.json
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.runtimeconfig.json
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.pdb
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\refint\InchesToCentimeters.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.pdb
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\InchesToCentimeters\obj\Debug\net6.0\ref\InchesToCentimeters.dll

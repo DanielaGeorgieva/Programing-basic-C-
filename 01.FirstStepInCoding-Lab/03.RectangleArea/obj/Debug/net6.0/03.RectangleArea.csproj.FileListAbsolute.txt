@@ -1,0 +1,14 @@
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.exe
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.deps.json
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.runtimeconfig.json
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.pdb
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\refint\03.RectangleArea.dll
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.pdb
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C# Programming\Programming basics with C#\01.FirstStepInCoding-Lab\03.RectangleArea\obj\Debug\net6.0\ref\03.RectangleArea.dll
