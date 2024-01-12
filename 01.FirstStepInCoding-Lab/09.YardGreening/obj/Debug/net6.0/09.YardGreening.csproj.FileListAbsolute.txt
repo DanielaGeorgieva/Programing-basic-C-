@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.exe
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.deps.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.runtimeconfig.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.sourcelink.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\refint\09.YardGreening.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\01.FirstStepInCoding-Lab\09.YardGreening\obj\Debug\net6.0\ref\09.YardGreening.dll
