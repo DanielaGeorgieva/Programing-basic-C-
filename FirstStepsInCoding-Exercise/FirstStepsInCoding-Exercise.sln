@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.USDToBGN", "01.USDToBGN\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.RadiansToDegrees", "02.RadiansToDegrees\02.RadiansToDegrees.csproj", "{BBD0268A-7672-4BCB-A507-22064BF69CA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DepositCalculator", "03.DepositCalculator\03.DepositCalculator.csproj", "{2E152010-F459-4A8D-8D67-C810B1342FF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.DepositCalculator", "03.DepositCalculator\03.DepositCalculator.csproj", "{2E152010-F459-4A8D-8D67-C810B1342FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.VacationBooksList", "04.VacationBooksList\04.VacationBooksList.csproj", "{EFAB6293-6181-455A-8D1C-669A4BD267CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.VacationBooksList", "04.VacationBooksList\04.VacationBooksList.csproj", "{EFAB6293-6181-455A-8D1C-669A4BD267CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SuppliesForSchool", "05.SuppliesForSchool\05.SuppliesForSchool.csproj", "{15F758A7-E6E2-4819-9B81-7200CFC96BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Repainting", "06.Repainting\06.Repainting.csproj", "{F43E7815-8140-41D8-A1B3-5B3F1CB8A4EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{EFAB6293-6181-455A-8D1C-669A4BD267CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFAB6293-6181-455A-8D1C-669A4BD267CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFAB6293-6181-455A-8D1C-669A4BD267CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F758A7-E6E2-4819-9B81-7200CFC96BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F758A7-E6E2-4819-9B81-7200CFC96BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F758A7-E6E2-4819-9B81-7200CFC96BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F758A7-E6E2-4819-9B81-7200CFC96BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43E7815-8140-41D8-A1B3-5B3F1CB8A4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43E7815-8140-41D8-A1B3-5B3F1CB8A4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43E7815-8140-41D8-A1B3-5B3F1CB8A4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43E7815-8140-41D8-A1B3-5B3F1CB8A4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

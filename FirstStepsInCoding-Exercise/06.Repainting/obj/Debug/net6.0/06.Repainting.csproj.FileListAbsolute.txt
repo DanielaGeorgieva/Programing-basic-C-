@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.sourcelink.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.exe
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.deps.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.runtimeconfig.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\bin\Debug\net6.0\06.Repainting.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\refint\06.Repainting.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\06.Repainting.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\06.Repainting\obj\Debug\net6.0\ref\06.Repainting.dll
