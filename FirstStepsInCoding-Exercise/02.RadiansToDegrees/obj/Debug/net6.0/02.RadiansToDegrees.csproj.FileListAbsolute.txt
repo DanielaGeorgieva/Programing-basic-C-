@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\net6.0\02.RadiansToDegrees.exe
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\net6.0\02.RadiansToDegrees.deps.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\net6.0\02.RadiansToDegrees.runtimeconfig.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\net6.0\02.RadiansToDegrees.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\bin\Debug\net6.0\02.RadiansToDegrees.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\02.RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\02.RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\02.RadiansToDegrees.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\02.RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\02.RadiansToDegrees.sourcelink.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\02.RadiansToDegrees.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\refint\02.RadiansToDegrees.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\02.RadiansToDegrees.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\02.RadiansToDegrees.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\FirstStepsInCoding-Exercise\02.RadiansToDegrees\obj\Debug\net6.0\ref\02.RadiansToDegrees.dll
