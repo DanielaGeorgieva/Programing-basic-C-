@@ -1,0 +1,11 @@
+﻿int chikenMenu = int.Parse(Console.ReadLine());
+int fishMenu = int.Parse(Console.ReadLine());
+int vegaMenu = int.Parse(Console.ReadLine());
+double priceChiken = 10.35;
+double priceFish = 12.40;
+double priceVega = 8.15;
+double delivery = 2.50;
+double allSum = (chikenMenu * priceChiken) + (fishMenu * priceFish) + (vegaMenu * priceVega);
+double desert = allSum * 0.20;
+double totalSum = allSum + desert + delivery;
+Console.WriteLine(totalSum);
