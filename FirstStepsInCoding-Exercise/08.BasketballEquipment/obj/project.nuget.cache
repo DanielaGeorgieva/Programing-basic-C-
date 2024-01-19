@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCImQo6/XhK5MvyRT4hFQKDfmGoGnzj5sueAe4eEF/ynL8z41UcAFUlU3TMy9rPF7DxD8hWhR7Hd+pRtPfAh4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\FirstStepsInCoding-Exercise\\08.BasketballEquipment\\08.BasketballEquipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
