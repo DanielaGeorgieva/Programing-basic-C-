@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.exe
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.deps.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.runtimeconfig.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\net6.0\02.GreaterNumber.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.sourcelink.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\refint\02.GreaterNumber.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\02.GreaterNumber.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\net6.0\ref\02.GreaterNumber.dll
