@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ExcellentResult", "01.ExcellentResult\01.ExcellentResult.csproj", "{45331598-80A6-450C-9D4E-AFDE2EDB2B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ExcellentResult", "01.ExcellentResult\01.ExcellentResult.csproj", "{45331598-80A6-450C-9D4E-AFDE2EDB2B73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GreaterNumber", "02.GreaterNumber\02.GreaterNumber.csproj", "{DE5F30D4-AF59-4A60-9033-B95A0220C311}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.GreaterNumber", "02.GreaterNumber\02.GreaterNumber.csproj", "{DE5F30D4-AF59-4A60-9033-B95A0220C311}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.EvenOrOdd", "03.EvenOrOdd\03.EvenOrOdd.csproj", "{DB9ED54D-2A96-4125-B852-2DFD90AE7207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.EvenOrOdd", "03.EvenOrOdd\03.EvenOrOdd.csproj", "{DB9ED54D-2A96-4125-B852-2DFD90AE7207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PasswordGuess", "04.PasswordGuess\04.PasswordGuess.csproj", "{1ED4D88F-55CA-4E8E-8907-1A8F8CD03FC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PasswordGuess", "04.PasswordGuess\04.PasswordGuess.csproj", "{1ED4D88F-55CA-4E8E-8907-1A8F8CD03FC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Number100To200", "05.Number100To200\05.Number100To200.csproj", "{EEB28A04-198D-4ED3-A666-F1E893F61128}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Number100To200", "05.Number100To200\05.Number100To200.csproj", "{EEB28A04-198D-4ED3-A666-F1E893F61128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SpeedInfo", "06.SpeedInfo\06.SpeedInfo.csproj", "{7BA94CCC-ACB9-4367-A501-76014319362D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.AreaOfFigures", "07.AreaOfFigures\07.AreaOfFigures.csproj", "{4F564A61-65CF-4EF9-B79B-171076BF0B65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{EEB28A04-198D-4ED3-A666-F1E893F61128}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB28A04-198D-4ED3-A666-F1E893F61128}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEB28A04-198D-4ED3-A666-F1E893F61128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA94CCC-ACB9-4367-A501-76014319362D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA94CCC-ACB9-4367-A501-76014319362D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA94CCC-ACB9-4367-A501-76014319362D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA94CCC-ACB9-4367-A501-76014319362D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F564A61-65CF-4EF9-B79B-171076BF0B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F564A61-65CF-4EF9-B79B-171076BF0B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F564A61-65CF-4EF9-B79B-171076BF0B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F564A61-65CF-4EF9-B79B-171076BF0B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
