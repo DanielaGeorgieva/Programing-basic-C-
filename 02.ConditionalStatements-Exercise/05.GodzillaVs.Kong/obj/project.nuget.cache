@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ogvRzfyrGB1t2tyj8lktfVfv4uemC11hialhlPA/0MDGKr9oD5XIPYzVIAakWuIEmY2MDp25NlRpY+l7gfcNA==",
+  "dgSpecHash": "WNtkqU2bkcrfHd+PqcYxwoHOGIVGSXRbgKz+o09GEfDXlFpFT6+K6hyYYdcQkmwsRO3BUYcrSaDkTd5Dy0Tgcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

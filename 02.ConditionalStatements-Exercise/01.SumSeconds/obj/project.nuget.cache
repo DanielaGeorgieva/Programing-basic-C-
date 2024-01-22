@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JARW13p8dJVzImxvHV/MI5wr3Q51CxjozEaPfyko+MUtK1U8VMk+t28o1xuzP7AH3y+ReXKqo38gFjAHypq9oQ==",
+  "dgSpecHash": "rdJac39KGYL9XIaQ0MguB7IJaQnuKwAtim0CUOGHz8AHX1uWxUxKLuQwZOeujaM9GdMP9kLa8wXvXjDNUn1xGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatements-Exercise\\01.SumSeconds\\01.SumSeconds.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\01.SumSeconds\\01.SumSeconds.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

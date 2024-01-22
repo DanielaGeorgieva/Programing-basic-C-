@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
+      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
       "projectName": "02.BonusScore",
-      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
+      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\02.BonusScore\\02.BonusScore.csproj",
       "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatements-Exercise\\02.BonusScore\\obj\\",
+      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\02.BonusScore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
