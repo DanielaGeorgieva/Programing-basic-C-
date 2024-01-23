@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\03.TimePlus15Minutes\\03.TimePlus15Minutes.csproj",
+      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\03.TimePlus15Minutes\\03.TimePlus15Minutes.csproj",
       "projectName": "03.TimePlus15Minutes",
-      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\03.TimePlus15Minutes\\03.TimePlus15Minutes.csproj",
+      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\03.TimePlus15Minutes\\03.TimePlus15Minutes.csproj",
       "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\03.TimePlus15Minutes\\obj\\",
+      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\03.TimePlus15Minutes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",

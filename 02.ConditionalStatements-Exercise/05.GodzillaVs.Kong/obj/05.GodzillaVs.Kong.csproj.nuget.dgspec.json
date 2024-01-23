@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj": {}
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj": {
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj",
+        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj",
         "projectName": "05.GodzillaVs.Kong",
-        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj",
+        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj",
         "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\obj\\",
+        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\05.GodzillaVs.Kong\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",

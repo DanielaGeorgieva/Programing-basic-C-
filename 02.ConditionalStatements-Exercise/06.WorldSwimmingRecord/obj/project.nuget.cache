@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FWUtx0qEwyU/XbgurQE5qott3tuUcQzus/cUoPXNrZlOcPjf5HI6Nis7HH7JHFy2VQxLyvVkIvkoUWgH45vJ5Q==",
+  "dgSpecHash": "MUaHFr4URFEOTccJ8RNSUYji+bB7IB3I62Ghl4VdjIY0gn07N3Toekl/2xbsOWvyCO54ICzJOy1PKvAiQmyhag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

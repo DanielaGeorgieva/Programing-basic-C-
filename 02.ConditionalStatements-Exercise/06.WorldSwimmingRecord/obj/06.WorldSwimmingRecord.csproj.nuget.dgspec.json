@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj": {}
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj": {
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj",
+        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj",
         "projectName": "06.WorldSwimmingRecord",
-        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj",
+        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj",
         "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\obj\\",
+        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\06.WorldSwimmingRecord\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",

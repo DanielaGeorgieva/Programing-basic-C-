@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0iujAPjCfumeKsCQcTCAaem8jSU07Hg+SMASt/bCtfy5hH9CiXY6k0h1lz4XXgszx0sWHE3zYz/vUrooO8ENA==",
+  "dgSpecHash": "kEz6v4OdTol7j4grzGDCAHmfx5kcxFw1/sKMDLRBmZDH3+8olT/KpopzlLKFmU5NLFKNVnfi3U7z/n3vzJ6ZLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\03.TimePlus15Minutes\\03.TimePlus15Minutes.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\03.TimePlus15Minutes\\03.TimePlus15Minutes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

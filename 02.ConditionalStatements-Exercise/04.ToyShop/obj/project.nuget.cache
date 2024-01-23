@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z69C7BvqZML6NGyN3Fltyu2gXbEp9W3Gk6lThDyFA6ED1y9kmXk+83pgqMRF//lqK+Rl3dTcodLtImaTs/eJfA==",
+  "dgSpecHash": "TMg48jReuXj26IcsTj5NUhPvJy+tEwa3bISKY3PEDULQnlMfIa2eJ7r1NZqDrk0sgja9R6r0xJLXfBlX/p7cdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\02.ConditionalStatements-Exercise\\04.ToyShop\\04.ToyShop.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\02.ConditionalStatements-Exercise\\04.ToyShop\\04.ToyShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
