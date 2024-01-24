@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\03.AnimalType\\03.AnimalType.csproj",
+      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\03.AnimalType\\03.AnimalType.csproj",
       "projectName": "03.AnimalType",
-      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\03.AnimalType\\03.AnimalType.csproj",
+      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\03.AnimalType\\03.AnimalType.csproj",
       "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\03.AnimalType\\obj\\",
+      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\03.AnimalType\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\05.SmallShop\\05.SmallShop.csproj",
+      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\05.SmallShop\\05.SmallShop.csproj",
       "projectName": "05.SmallShop",
-      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\05.SmallShop\\05.SmallShop.csproj",
+      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\05.SmallShop\\05.SmallShop.csproj",
       "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\05.SmallShop\\obj\\",
+      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\05.SmallShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",

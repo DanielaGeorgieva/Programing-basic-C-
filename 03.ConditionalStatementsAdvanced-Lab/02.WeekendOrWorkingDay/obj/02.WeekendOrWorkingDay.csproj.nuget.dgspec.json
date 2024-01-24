@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj": {}
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj": {
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj",
+        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj",
         "projectName": "02.WeekendOrWorkingDay",
-        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj",
+        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\02.WeekendOrWorkingDay.csproj",
         "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\obj\\",
+        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\02.WeekendOrWorkingDay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",

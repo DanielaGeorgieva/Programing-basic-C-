@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WN02dFzvdeGXvuT42XM9C9l3oSYI9piF0XHeJ+stp9YihOuwZXiIjYSg0/l4fQdQDZJe13z+ZkGbjjsd2EDalg==",
+  "dgSpecHash": "h8RYy0vF68LI86TxGt4wUFbICo3mMF0uN4FDXALwLznCVkP5agisPJyiVuMtF9IimtRtt3DFdcENof55cBo3Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\03.AnimalType\\03.AnimalType.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\03.AnimalType\\03.AnimalType.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

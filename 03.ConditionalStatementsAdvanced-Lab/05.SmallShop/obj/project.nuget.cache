@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFMobM+ISQ9So4l2XIglkWj1K/v8ZEDafGozcHUf5KL6+4wYhWnawSTPhC9jL7JVM66HZq2wzs0qewsJnRtcVg==",
+  "dgSpecHash": "B6kg0g0PtCYFpCBS8vm8NuF5nkGEc/YWNETzJgfdekbjOVG4BXr7t/mZcLq5Uo8k3/xrzn6ov9vk4xReJ6emYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\05.SmallShop\\05.SmallShop.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\05.SmallShop\\05.SmallShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

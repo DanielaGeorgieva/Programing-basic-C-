@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L+K4qCd89zeUGu2SKGv2iWHx0iDSwTXNBtlHrbkIRbIW+mrvTHp/o/kdbW1foD7Y2Ky1k9vG7Fg4+AsqkswcnA==",
+  "dgSpecHash": "LjWu7LGNYDgtZ7T8i7y8U6MfsHd3mLfhfgVmh1GsUsPXb3Mt14Osd9LTD+/KiIUsGEbjx9ScF/QBUnmnYD63Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\ConditionalStatementsAdvanced-Lab\\01.DayOfWeek\\01.DayOfWeek.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\03.ConditionalStatementsAdvanced-Lab\\01.DayOfWeek\\01.DayOfWeek.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
