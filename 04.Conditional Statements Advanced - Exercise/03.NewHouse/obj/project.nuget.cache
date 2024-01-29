@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3eenXq1V+s8naMYpHUEE7uoAsuZqGkUZDFM596eCFIeSfVWYOCbYFMwtqdSnmQUzLCjhITUw7Iaz8nDSwEKZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.Conditional Statements Advanced - Exercise\\03.NewHouse\\03.NewHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

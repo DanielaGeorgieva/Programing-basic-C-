@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\Conditional Statements Advanced - Exercise\\01.Cinema\\01.Cinema.csproj",
+      "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.Conditional Statements Advanced - Exercise\\01.Cinema\\01.Cinema.csproj",
       "projectName": "01.Cinema",
-      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\Conditional Statements Advanced - Exercise\\01.Cinema\\01.Cinema.csproj",
+      "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.Conditional Statements Advanced - Exercise\\01.Cinema\\01.Cinema.csproj",
       "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\Conditional Statements Advanced - Exercise\\01.Cinema\\obj\\",
+      "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.Conditional Statements Advanced - Exercise\\01.Cinema\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",

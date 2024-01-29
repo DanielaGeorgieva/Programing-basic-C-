@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.exe
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.deps.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.runtimeconfig.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.sourcelink.json
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\refint\03.NewHouse.dll
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C#_Repo\Programing-basic-C-Sharpe\04.Conditional Statements Advanced - Exercise\03.NewHouse\obj\Debug\net6.0\ref\03.NewHouse.dll

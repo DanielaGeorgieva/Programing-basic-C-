@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "atXIzXe+DOqWDJLpfOy/C3WlWC8ttxR36bHO/yBGplOQ9vsfFFiLtCW+A00HIGlNms+BveVWoZLc1ozXnFDUNA==",
+  "dgSpecHash": "XpaOE1xuourEaYN9UBixVtH/Dd6ESlPjPRXvCmx2BBbDActmINTux1aaIAxK66IJEfJ+Oe8hjXcCEMlNsrVKVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\Conditional Statements Advanced - Exercise\\02.SummerOutfit\\02.SummerOutfit.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.Conditional Statements Advanced - Exercise\\02.SummerOutfit\\02.SummerOutfit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
