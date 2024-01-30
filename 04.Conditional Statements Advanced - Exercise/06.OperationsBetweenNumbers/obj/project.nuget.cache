@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ThonqFueVk758h38CkCbvhAFSjYbw6RkeKzGw7YPYs7ZsrrNUO2hm2chPhx2wtgk7SIeN9lioy94ALnCzItwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.Conditional Statements Advanced - Exercise\\06.OperationsBetweenNumbers\\06.OperationsBetweenNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
