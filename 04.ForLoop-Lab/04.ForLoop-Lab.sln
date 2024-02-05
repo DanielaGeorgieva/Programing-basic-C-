@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NumbersFrom1To100", "01.NumbersFrom1To100\01.NumbersFrom1To100.csproj", "{05748E38-4BFE-43F7-9FBF-9D7F598CC7F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.NumbersFrom1To100", "01.NumbersFrom1To100\01.NumbersFrom1To100.csproj", "{05748E38-4BFE-43F7-9FBF-9D7F598CC7F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NumbersNTo1", "02.NumbersNTo1\02.NumbersNTo1.csproj", "{031BFC05-6FDC-4608-ABFF-F6E95442F5A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.NumbersNTo1", "02.NumbersNTo1\02.NumbersNTo1.csproj", "{031BFC05-6FDC-4608-ABFF-F6E95442F5A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Numbers1ToNWithStep3", "03.Numbers1ToNWithStep3\03.Numbers1ToNWithStep3.csproj", "{D9FB6E81-E903-4CEC-9C3C-6BFF17EE9787}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Numbers1ToNWithStep3", "03.Numbers1ToNWithStep3\03.Numbers1ToNWithStep3.csproj", "{D9FB6E81-E903-4CEC-9C3C-6BFF17EE9787}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.EvenPowersOf2", "04.EvenPowersOf2\04.EvenPowersOf2.csproj", "{BFAFAE5E-08A3-4A72-8E96-6F4A27FCBBD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.EvenPowersOf2", "04.EvenPowersOf2\04.EvenPowersOf2.csproj", "{BFAFAE5E-08A3-4A72-8E96-6F4A27FCBBD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CharacterSequence", "05.CharacterSequence\05.CharacterSequence.csproj", "{A61C7EEC-2906-4CB0-A11A-658EF8ECADDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.CharacterSequence", "05.CharacterSequence\05.CharacterSequence.csproj", "{A61C7EEC-2906-4CB0-A11A-658EF8ECADDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.VowelsSum", "06.VowelsSum\06.VowelsSum.csproj", "{CB824C6F-739E-4091-A859-004A634C7959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SumNumbers", "07.SumNumbers\07.SumNumbers.csproj", "{E17B22A4-5581-41FF-B8F3-BB4589A9E3C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{A61C7EEC-2906-4CB0-A11A-658EF8ECADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A61C7EEC-2906-4CB0-A11A-658EF8ECADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A61C7EEC-2906-4CB0-A11A-658EF8ECADDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB824C6F-739E-4091-A859-004A634C7959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB824C6F-739E-4091-A859-004A634C7959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB824C6F-739E-4091-A859-004A634C7959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB824C6F-739E-4091-A859-004A634C7959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17B22A4-5581-41FF-B8F3-BB4589A9E3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17B22A4-5581-41FF-B8F3-BB4589A9E3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17B22A4-5581-41FF-B8F3-BB4589A9E3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17B22A4-5581-41FF-B8F3-BB4589A9E3C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\09.ForLoop-Lab\\03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj": {}
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\09.ForLoop-Lab\\03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj": {
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\09.ForLoop-Lab\\03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj",
+        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj",
         "projectName": "03.Numbers1ToNWithStep3",
-        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\09.ForLoop-Lab\\03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj",
+        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\03.Numbers1ToNWithStep3\\03.Numbers1ToNWithStep3.csproj",
         "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\09.ForLoop-Lab\\03.Numbers1ToNWithStep3\\obj\\",
+        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\03.Numbers1ToNWithStep3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
