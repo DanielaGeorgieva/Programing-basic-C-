@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "58usankyi/p2+3iRcH7cofbMpWOwgn/UkZ3x/4RriLLngHedzXYXeD1WAJU5qclLt8pzY5gdf4y77DnNl5lE0Q==",
+  "dgSpecHash": "1MCjO0gqii2NBB7VxBKDicagfn8eMjCHu6uxBzYYGCtr728N6KKT1mWSVa9G25112GDupk5j7E3CobWP+vaBSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\06.VowelsSum\\06.VowelsSum.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\06.VowelsSum\\06.VowelsSum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

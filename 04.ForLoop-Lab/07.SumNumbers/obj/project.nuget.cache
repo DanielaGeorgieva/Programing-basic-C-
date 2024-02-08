@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mmIIpcbltiCizCtpe+L3o6tHHHtWTmVUwSArI9h5lgwM+cQ8bUDA7FYRK7FK3USUkb746OZhxmtHEr02KNT48Q==",
+  "dgSpecHash": "a2L0ndDYwSc2vtTVlukL0wjBifx9yLUBkP5CitOAXVs9R50sd1OU13ZtScDYMtifP5lmYg5jvXAOKxRKnMAH6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\07.SumNumbers\\07.SumNumbers.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\07.SumNumbers\\07.SumNumbers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

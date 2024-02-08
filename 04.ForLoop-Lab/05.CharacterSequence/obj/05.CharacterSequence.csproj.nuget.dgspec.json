@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\05.CharacterSequence\\05.CharacterSequence.csproj": {}
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\05.CharacterSequence\\05.CharacterSequence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\05.CharacterSequence\\05.CharacterSequence.csproj": {
+    "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\05.CharacterSequence\\05.CharacterSequence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\05.CharacterSequence\\05.CharacterSequence.csproj",
+        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\05.CharacterSequence\\05.CharacterSequence.csproj",
         "projectName": "05.CharacterSequence",
-        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\05.CharacterSequence\\05.CharacterSequence.csproj",
+        "projectPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\05.CharacterSequence\\05.CharacterSequence.csproj",
         "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\05.CharacterSequence\\obj\\",
+        "outputPath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\05.CharacterSequence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",

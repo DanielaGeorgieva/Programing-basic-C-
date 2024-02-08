@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZvjloeaOS+vGGzxVKQv0W+EQ4Voyq21R1kh/4kRFZqBF3/GShmUhNlp9o5Iv+DLNB3pxornWue1gWsKfysZviQ==",
+  "dgSpecHash": "P8Udg8uqeZA2e8IKykeQBjGG0EbPYbgigIxFpGgBGj4hrCZSg9tlqu+4JqDH3DEF2Oj/Ex8tim76N5flt92i8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\04.EvenPowersOf2\\04.EvenPowersOf2.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\04.EvenPowersOf2\\04.EvenPowersOf2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

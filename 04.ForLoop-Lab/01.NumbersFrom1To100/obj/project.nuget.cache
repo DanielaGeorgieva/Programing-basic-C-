@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "geKx270pi3gDYMWjbGIMivUHlX04UcUGzRopt+DB1dekVkP0p3Jx0xKAbzhp/pScDoQUoHfk7rUOlv6IxmoSgQ==",
+  "dgSpecHash": "ptsa9iVKdzh5Z52R2DNURlNWaT+6Tj/TQc8Y/hw5sTZxIK1gLb8fbOKPOauCG5XQzIy3NDPNgkXgFNKUYXunJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-Sharpe\\04.ForLoop-Lab\\01.NumbersFrom1To100\\01.NumbersFrom1To100.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Lab\\01.NumbersFrom1To100\\01.NumbersFrom1To100.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
