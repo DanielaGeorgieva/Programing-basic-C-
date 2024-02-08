@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q6eob3s4+MFlvx1cotHkXlIW9USRS4BE7VEH1iX9hgGwkR96r2MekoJRivUMCCl0UxsvzNCcb8vpM3sFV5C/2w==",
+  "dgSpecHash": "RG9kiCIFjmiVsMYchFzCMSxBWl8JDj0rjk+2LnvdlQBdR+6AP+/nII410ONzUyp/nzGO7lyTr5P598cTC0lVOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\04.ForLoop-Exercise\\02.HalfSumElement\\02.HalfSumElement.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Exercise\\02.HalfSumElement\\02.HalfSumElement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",

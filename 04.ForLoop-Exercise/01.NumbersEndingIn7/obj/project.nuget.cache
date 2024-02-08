@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ibwE9prDJGH1mb9MofSo2FCNSJJ0hdb9XkvGR1TQrtNM82DLTtPdsNlOrI1h1hhsmIbugLs4TBHDfSIiKM3hgA==",
+  "dgSpecHash": "Q1T32EUHyoAhg6pbrghfs3J+z1mPRpLbf5x6BfVhSJoxEg9+dQ4L8bWFmhDlYUWZ9ReAWOhA91bjf2X5s+f+lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programing-basic-C-\\04.ForLoop-Exercise\\01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj",
+  "projectFilePath": "C:\\Users\\Dani\\Desktop\\C#_Repo\\Programming-basic-C-Sharp\\04.ForLoop-Exercise\\01.NumbersEndingIn7\\01.NumbersEndingIn7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
