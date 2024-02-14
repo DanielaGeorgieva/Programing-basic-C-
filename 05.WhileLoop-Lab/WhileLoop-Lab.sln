@@ -5,9 +5,11 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReadText", "01.ReadText\01.ReadText.csproj", "{1143F282-8B98-468D-B836-BB11F2800118}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Password", "02.Password\02.Password.csproj", "{79B8A90A-7CAE-4839-9320-A17CA2425AFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Password", "02.Password\02.Password.csproj", "{79B8A90A-7CAE-4839-9320-A17CA2425AFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SumNumbers", "03.SumNumbers\03.SumNumbers.csproj", "{510D5C5A-6A4B-4074-AEBF-FB553CE415DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SumNumbers", "03.SumNumbers\03.SumNumbers.csproj", "{510D5C5A-6A4B-4074-AEBF-FB553CE415DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Sequence2kPlus1", "04.Sequence2kPlus1\04.Sequence2kPlus1.csproj", "{47517EBA-3F2B-4E2E-917B-91E1B58501E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{510D5C5A-6A4B-4074-AEBF-FB553CE415DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{510D5C5A-6A4B-4074-AEBF-FB553CE415DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{510D5C5A-6A4B-4074-AEBF-FB553CE415DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47517EBA-3F2B-4E2E-917B-91E1B58501E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47517EBA-3F2B-4E2E-917B-91E1B58501E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47517EBA-3F2B-4E2E-917B-91E1B58501E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47517EBA-3F2B-4E2E-917B-91E1B58501E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
