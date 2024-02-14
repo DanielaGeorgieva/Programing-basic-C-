@@ -1,0 +1,15 @@
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\bin\Debug\net6.0\01.ReadText.exe
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\bin\Debug\net6.0\01.ReadText.deps.json
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\bin\Debug\net6.0\01.ReadText.runtimeconfig.json
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\bin\Debug\net6.0\01.ReadText.dll
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\bin\Debug\net6.0\01.ReadText.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\01.ReadText.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\01.ReadText.AssemblyInfo.cs
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\01.ReadText.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\01.ReadText.sourcelink.json
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\01.ReadText.dll
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\refint\01.ReadText.dll
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\01.ReadText.pdb
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\01.ReadText.genruntimeconfig.cache
+C:\Users\Dani\Desktop\C#_Repo\Programming-basic-C-Sharp\05.WhileLoop-Lab\01.ReadText\obj\Debug\net6.0\ref\01.ReadText.dll
