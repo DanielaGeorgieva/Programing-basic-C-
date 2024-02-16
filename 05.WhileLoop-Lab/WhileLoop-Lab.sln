@@ -11,11 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.SumNumbers", "03.SumNumb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Sequence2kPlus1", "04.Sequence2kPlus1\04.Sequence2kPlus1.csproj", "{47517EBA-3F2B-4E2E-917B-91E1B58501E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AccountBalance", "05.AccountBalance\05.AccountBalance.csproj", "{265DF323-30F7-4750-B26C-5711ACC5491E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AccountBalance", "05.AccountBalance\05.AccountBalance.csproj", "{265DF323-30F7-4750-B26C-5711ACC5491E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MaxNumber", "06.MaxNumber\06.MaxNumber.csproj", "{8FA69AFE-ADD6-44F0-B3F1-BAFCC77E0E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.MaxNumber", "06.MaxNumber\06.MaxNumber.csproj", "{8FA69AFE-ADD6-44F0-B3F1-BAFCC77E0E5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MinNumber", "07.MinNumber\07.MinNumber.csproj", "{BBBA78CC-B39C-49BB-98B8-E61937595DD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.MinNumber", "07.MinNumber\07.MinNumber.csproj", "{BBBA78CC-B39C-49BB-98B8-E61937595DD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
